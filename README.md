@@ -4,6 +4,11 @@ As a part of online training on Clinical Trial Analysis &amp; Reporting I have c
 # Problem Statement
 Derive the necessary dataset from RAW DATA and create the Demographic Table as shown in Mock Demographic Table.
 
+# RAW DATA
+Snapshot of Excel Sheet containing RAW DATA of 100 Subjects.
+
+![App Screenshot](https://github.com/Ketan-Korde/SAS---Demographic-Table/blob/9c0779e4a153e20110bafc05ffaf5eb8f2460355/RAW%20DATA.PNG)
+
 # Mock Demographic Table
 
 ![App Screenshot](https://github.com/Ketan-Korde/SAS---Demographic-Table/blob/eff7c8cf5615c9c0e677dab945dc2c8ef02fd6ca/Mock%20Table.PNG)
